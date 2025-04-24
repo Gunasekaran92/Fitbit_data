@@ -16,3 +16,7 @@ Grafana is free create interactive dashboards for personal use
 
 #### Link to view the Grafana dashboard:
 https://gunasekarancan.grafana.net/dashboard/snapshot/BgqVvso6ZkWsuM6OYEmC8NHeIimcLZvf
+
+
+Accessing Fitbit Web API:
+https://dev.fitbit.com/build/reference/web-api/
