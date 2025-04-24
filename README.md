@@ -15,4 +15,4 @@ For storage I have used PostgreSQL to load the data
 Grafana is free create interactive dashboards for personal use
 
 #### Link to view the Grafana dashboard:
-https://gunasekarancan.grafana.net/dashboard/snapshot/P81xZoXaVpqf69zOYG7tvAzYHnhNDKMs
+https://gunasekarancan.grafana.net/dashboard/snapshot/BgqVvso6ZkWsuM6OYEmC8NHeIimcLZvf
